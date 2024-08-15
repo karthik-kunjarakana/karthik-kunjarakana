@@ -1,7 +1,7 @@
 
 ---
 
-# Hi, I'm Karthik Kunjarakana! 👋
+# Hi, I'm Karthika Krishna! 👋
 
 Welcome to my GitHub profile! I’m a student at VCET Puttur with a keen interest in programming. Explore my repositories to see my work in Python and C programming and also CV2 implementation using python.
 

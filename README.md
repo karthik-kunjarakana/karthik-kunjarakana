@@ -3,7 +3,7 @@
 
 # Hi, I'm Karthika Krishna! 👋
 
-CSE Graduate | Software Engineer | Computer Vision Enthusiast**
+CSE Graduate | Software Engineer | Computer Vision Enthusiast
 
 Computer Science & Engineering graduate from VCET Puttur with hands-on experience in software development.
 
